@@ -1,3 +1,5 @@
+### !THIS IS JUST TEMPORARILY UNTIL A REPOSITORY IS MADE AT SOARTEX FANVER's GITHUB!
+
 # Soartex Modded Textures 1.15.x
 
 ### Created by everyone for everyone!
