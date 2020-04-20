@@ -1,0 +1,10 @@
+{
+  "mod_id": "Minecraft",
+  "mod_name": "Minecraft",
+  "mod_dir": "/Minecraft/",
+  "mod_version": "1.15.2",
+  "mc_version": "1.15.2",
+  "mod_authors": ["Mojang(TM)", "Microsoft(TM)"],
+  "url_website": "https://www.minecraft.net/",
+  "description": "! Just a fix for some 1.15 blocks and items !"
+}
