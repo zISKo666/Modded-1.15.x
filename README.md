@@ -9,9 +9,6 @@ with scripts and made available in the patcher and on the downloads page!
 - [Downloads](http://soartex.net/downloads/)
 - [License](http://soartex.net/license/#fanver)
 
-[![Issue Stats](http://issuestats.com/github/zISKo666/modded-1.15.x/badge/pr?style=flat)](http://issuestats.com/github/zISKo666/modded-1.15.x)
-[![Issue Stats](http://issuestats.com/github/zISKo666/modded-1.15.x/badge/issue?style=flat)](http://issuestats.com/github/zISKo666/modded-1.15.x)
-
 ### Goals
 * Relaxed, fun, community learning and texturing environment
 * Support for mod packs in the FTB, Technic and ATLauncher platforms
