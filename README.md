@@ -1,3 +1,5 @@
+### !THIS IS JUST TEMPORARILY UNTIL A REPOSITORY IS MADE AT SOARTEX FANVER's GITHUB!
+
 # Soartex Modded Textures 1.15.x
 
 ### Created by everyone for everyone!
@@ -8,9 +10,6 @@ with scripts and made available in the patcher and on the downloads page!
 - [Forums](http://soartex.net/community/)
 - [Downloads](http://soartex.net/downloads/)
 - [License](http://soartex.net/license/#fanver)
-
-[![Issue Stats](http://issuestats.com/github/zISKo666/modded-1.15.x/badge/pr?style=flat)](http://issuestats.com/github/zISKo666/modded-1.15.x)
-[![Issue Stats](http://issuestats.com/github/zISKo666/modded-1.15.x/badge/issue?style=flat)](http://issuestats.com/github/zISKo666/modded-1.15.x)
 
 ### Goals
 * Relaxed, fun, community learning and texturing environment
